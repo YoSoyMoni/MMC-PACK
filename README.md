@@ -1,2 +1,2 @@
 # MMC-PACK
-Texture packs for minecraft bedrock 
+The "MMC" texture packs are located here; you'll find all their complements.
